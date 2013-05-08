@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Milio\Documents\GitHub\NF28\source\.metadata\.plugins\org.eclipse.jdt.core
+3458469366.index
+2305612169.index
+1603743466.index
